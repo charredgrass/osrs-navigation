@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"removeComments": true,
+		"outDir": "build",
+		"target": "es6",
+		"module": "commonjs",
+		"moduleResolution": "node"
+	},
+	"include": ["src/**/*"],
+	"exclude": ["node_modules"]
+}
